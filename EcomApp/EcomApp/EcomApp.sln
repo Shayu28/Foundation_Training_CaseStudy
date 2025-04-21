@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcomApp", "EcomApp.csproj", "{2BE1B98A-958E-4C40-9D86-E70B6F86911A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcomApp.Tests", "..\EcomApp.Tests\EcomApp.Tests.csproj", "{2305D1F2-F1FB-416F-9937-CBC83E9917EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE1B98A-958E-4C40-9D86-E70B6F86911A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE1B98A-958E-4C40-9D86-E70B6F86911A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE1B98A-958E-4C40-9D86-E70B6F86911A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE1B98A-958E-4C40-9D86-E70B6F86911A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2305D1F2-F1FB-416F-9937-CBC83E9917EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2305D1F2-F1FB-416F-9937-CBC83E9917EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2305D1F2-F1FB-416F-9937-CBC83E9917EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2305D1F2-F1FB-416F-9937-CBC83E9917EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BB71CC0-5964-4F9C-97FD-CC7129E03046}
+	EndGlobalSection
+EndGlobal
